@@ -34,5 +34,5 @@ https://youtu.be/TmDNBEdHzVs
 
 ### To Do List App React (V2) [Update]
 
-https://github.com/webstylepress/To-Do-List-App-React-V2-
+Code: https://github.com/webstylepress/To-Do-List-App-React-V2-
 
