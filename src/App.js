@@ -1,4 +1,6 @@
 import React, {useState} from 'react';
+// npm install bootstrap
+// npm install --save @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
